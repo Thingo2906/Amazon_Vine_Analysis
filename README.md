@@ -4,6 +4,7 @@
 - I chose the Furniture category to study out of the 50 datasets available.
 ## Results:
 <img width="1078" alt="final_result" src="https://user-images.githubusercontent.com/93515126/161169486-a61ffb41-f6e0-411f-9851-3bc0b4af8496.png">
+
 From the data set we see following:
 - The ratio of Vine members : Non-Vine members is close to 1:132 (136:18002),
 - The same ratio is applied to 5 star reviews that were given by both (74:8472),
